@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to WookiJung Vue.js App" />
+  <HelloWorld msg="test unit 없애니까 될껄?" />
 </template>
 
 <script>
