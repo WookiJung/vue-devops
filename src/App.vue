@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="test unit 없애니까 될껄?" />
+  <HelloWorld msg="test unit 있어도 되나?" />
 </template>
 
 <script>
